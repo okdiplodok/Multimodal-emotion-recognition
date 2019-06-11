@@ -1,0 +1,637 @@
+subs,text,Label,predictions
+neutrality,Ik heb iets anders ontdekt.,4,3
+neutrality,"Jij, fiets alsjeblieft even naar het centrum voor de ballonnen.",4,4
+sadness,Ook voor ons. Wij kregen een kindje en... toen had je die miskraam.,5,5
+neutrality,Dank je wel.,4,4
+neutrality,Het is ook belangrijk dat iemand 't hoofd koel houdt.,4,4
+anger,Als dat echt zo was dan had je me dit nooit geflikt.,0,5
+neutrality,"Hee, ik heb een nieuwe locatie voor de bruiloft geregeld.",4,4
+sadness,"Tot de dood ons scheidt, dat duurt niet lang, he.",5,0
+neutrality,Ze doet dit voor Bing. Ze zegt 't niet uit zichzelf.,4,4
+anger,Maar hoe... Dit kan niet. Kennelijk wel.,0,0
+anger,"Jij hebt ervoor gekozen om m'n huwelijk op 't spel te zetten. Daar hebben wij niet om gevraagd, maar we hebben 't opgelost. Ik ben veel beter af zonder jou.",0,0
+fear,En ik wil 't heel graag nu afmaken. Ik heb namelijk 'n deadline. Ik heb met Spectrum' afgesproken... dat ze 't morgen al plaatsen.,2,0
+neutrality,Alsof wij nooit extreme dingen hebben gedaan.,4,0
+neutrality,Ik ben dan misschien iemand zonder mening... maar Sjoerd heeft 't hier moeilijk mee.,4,0
+surprise,Zijn er problemen thuis?,6,6
+neutrality,Echtheid. Die willen mensen zien die durven laten zien dat ze onzeker zijn. Die janken. Die ook filmen als het slecht gaat.,4,0
+neutrality,Geen spoor?,4,6
+happiness,Ik ben ook niet klaar met jou.,3,5
+neutrality,"Het is blijkbaar makkelijker om 'n rekening te blokkeren, dan om hem te heropenen.",4,4
+neutrality,"Ik wil alleen een kind en een leven met jou, maar Teddy heeft me nodig.",4,5
+neutrality,Waar is ze?,4,6
+sadness,Laten we dit allebei zien als een afsluiting.,5,0
+neutrality,Waar is ze?,4,6
+surprise,"Dat geloof ik niet, dat het er niet meer is.",6,0
+happiness,Leon. Dank je.,3,4
+sadness,Thijs heeft inwendig zware beschadigingen opgelopen.,5,4
+neutrality,misschien komt het dan weer goed tussen jou en Thijs.,4,3
+sadness,Ik ben een eikel.,5,3
+sadness,"Als je van iemand houdt, wil je trouwen. Dan doet leeftijd er niet meer toe. Dat begrijp jij natuurlijk niet.",5,0
+happiness,"Als je 't feest nog 'n keer over wil doen, kan 't altijd hier.",3,3
+anger,Achterbakse bitch. Je hebt gewoon maandenlang gelogen.,0,1
+sadness,"Maar Kas, ik wil dat je weet dat... dat wat de uitslag ook is... ik neem jou niks kwalijk.",5,0
+neutrality,Je hebt het toch weleens eerder gedaan? Kun je niet gewoon doen alsof hij 'n patient is?,4,0
+neutrality,"Heeft ze hem laten vermoorden? Weet ik niet, echt niet.",4,0
+surprise,Dat weet je zeker?,6,6
+happiness,Vriendschap is belangrijker dan geld.,3,4
+surprise,"Dat snap ik. Je zegt net zelf dat Thijs zich nu laat testen, toch? Wat als ie geschikt is?",6,0
+neutrality,"Neem mijn auto, we redden ons wel.",4,0
+sadness,Het zit niet goed.,5,5
+neutrality,Heb geinformeerd naar de toestand van Teddy… maar van m'n collega's hoorde ik dat Rik nu geopereerd wordt.,4,2
+anger,Alsof jij er wat aan kan doen.,0,4
+neutrality,Rikki weet hoe ze dat moet vertellen.,4,4
+anger,Niet zeggen. Dit kan zo echt niet langer.,0,5
+neutrality,"Nee, niks meer gehoord.",4,0
+disgust,Per ongeluk. Op die foto leek 't net alsof ze aan 't zoenen waren... en toen heeft mama me uitgelegd dat 't niet zo was. En ik geloof haar en niet hem.,1,0
+anger,Geen behoefte aan.,0,4
+disgust,"Een paar shotjes en ik ga al out, wat een afgang.",1,4
+neutrality,Dan kies je een datum en een tijd.,4,4
+neutrality,Laten we even gaan zitten.,4,5
+neutrality,"Ja, een halfjaar of zo.",4,4
+anger,Wil je naar me luisteren en dan pas beslissen hoe je hiermee omgaat?,0,6
+disgust,"Hij heeft een strafblad. Fraude, witwassen, omkoping.",1,4
+neutrality,"Ik niet, want als croupier zal ik nuchter moeten blijven",4,5
+fear,"Ik ook, maar als ze niet lekker is... Haar afweer is nog niet helemaal in orde. Ze is nog zo kwetsbaar.",2,3
+happiness,"Ja, ik laat het je weten als er iets verandert. Thijs... ik hou van je. Ik wil dat je dat weet. Doei.",3,3
+neutrality,Iemand heeft bij de bekend dat hij schuldig is aan de fraude. Ene Hamersma.,4,4
+surprise,sorry. Wat?,6,6
+surprise,Ja?,6,4
+neutrality,"Ja, z'n 'image'.",4,4
+neutrality,"Fruit, lekker. Deze is voor Teddy.",4,3
+sadness,Ik wil niet tussen jou en je moeder komen.,5,5
+anger,Je beseft dat Nina hier doodongelukkig van wordt?,0,6
+happiness,"Teddy haalt 't waarschijnlijk, dankzij jou.",3,4
+neutrality,Ik ben er.,4,4
+anger,Je gedraagt je als 'n idioot.,0,4
+sadness,Ik hou m'n hele leven spijt als ik niet met 'm trouw.,5,5
+neutrality,Ik moet naar het ziekenhuis,4,4
+anger,Dus gooi je m'n hele priveleven op internet?,0,4
+surprise,"Maar schat, een time- out zou ik nog kunnen begrijpen, maar... Is dat niet 'n betere oplossing?",6,4
+sadness,Dank je. Mijn vader moet de rest van z'n leven medicijnen slikken... en het heeft helemaal niks veranderd. Teddy vecht nog steeds voor haar leven.,5,5
+neutrality,Ik heb net dokter Lagerman gesproken.,4,4
+sadness,Ik wil je helemaal niet kwijt. Jij bent belangrijker dan wat dan ook.,5,5
+neutrality,Gaat alles goed hier?,4,0
+fear,Dat zeg je omdat je anders je dochter kwijtraakt.,2,0
+anger,Jij zeurde maar door over Felix.,0,4
+disgust,"Dat ze met me op de foto willen ok, maar dit gaat wel heel ver.",1,0
+neutrality,Wat heeft Marcus je allemaal verteld over de afgelopen weken?,4,6
+neutrality,Heb je veel pijn?,4,6
+neutrality,"Kom nou hier, het is ok.",4,3
+neutrality,Maar vrijheid lijkt me in jouw geval toch een vooruitgang.,4,0
+anger,Weer. Altijd geluk.,0,3
+neutrality,Misschien was hij bang om ontmaskerd te worden. Dacht hij: ik ga zelf naar de voor strafvermindering.,4,0
+neutrality,"Wat heeft die vrouw tegen Ludo? Weet ik niet, ect niet.",4,0
+neutrality,"Sjoerd zat er zo doorheen, door dat hele gedoe met Aysen en Teddy.",4,4
+surprise,Jij denkt iemand binnen Sanders Inc.?,6,4
+neutrality,Ik kom ook net uit het ziekenhuis. Ik was bij Rik op bezoek. Hij nam me mee naar Teddy.,4,4
+neutrality,"ok, en wat houdt dat dan in?",4,4
+neutrality,"En als je haar vindt, wat dan?",4,4
+disgust,"Kay, ik wil geen winterwandeling voor twee. Of chocolademelk bij 'n haardvuur.",1,1
+anger,Je hebt niks meer met haar te maken. Ik verbied je om te komen.,0,5
+anger,Ze is niet jouw dochter.,0,0
+happiness,"Ja, dat is een goed plan. Wij dachten eerst aan wijn en cocktails.",3,4
+neutrality,Die geste heb ik zeer gewaardeerd. Maar dit staat er los van.,4,5
+happiness,"Als jij me een lijstje kunt geven dan pleeg ik wat telefoontjes en leg ze uit waarom 't veel beter is om nu te verkopen, aan mij.",3,0
+happiness,Goed.,3,4
+neutrality,Is er nog nieuws?,4,6
+anger,Wat? Dat je leugens zijn uitgekomen?,0,6
+neutrality,Ook al betekent dat dat iemand anders er vanavond niet is.,4,0
+happiness,Net zo mooi als op onze bruiloft.,3,3
+anger,Je liegt.,0,3
+neutrality,Laat Ludo zijn eigen mensen erop zetten.,4,4
+neutrality,Ik weet niet of het er wel nog steeds is.,4,0
+sadness,"Luister, ik ga niet dood of zo.",5,0
+neutrality,Heeft hij Malena misschien gevonden?,4,4
+happiness,Mijn pa is ook een lul. Daar heb ik me heel lang druk om gemaakt. Maar nu bestaat ie niet meer voor me. En het gaat prima zonder hem.,3,5
+happiness,Dan ben ik toch alleen maar heel blij voor jullie.,3,3
+neutrality,"Nee. Maar Waterman is een goede arts, dus... Heb je al iets van Sam gehoord?",4,4
+surprise,Waarom doe je dit?,6,0
+neutrality,"Ja, maar ik heb jou ook nodig.",4,4
+neutrality,Heeft ze je nog benaderd na de laatste aanslag?,4,4
+fear,Het belangrijkste is dat ik zo snel mogelijk op die operatietafel lig.,2,4
+happiness,"Ik ben superenthousiast, maar we hadden 't net over Rikki.",3,3
+sadness,"Dat moet hij zelf beslissen, het is een zware operatie. Daar weet u alles van.",5,0
+neutrality,Heb je al iets tegen Sjoerd gezegd?,4,6
+neutrality,Waar is je vader?,4,6
+surprise,Hm?,6,4
+fear,"Sam, zullen we dit eerst even rustig bespreken?",2,2
+neutrality,"Met jou, met Teddy. Met ons.",4,3
+sadness,"Vind ik heel lief, maar m'n hoofd staat er even niet naar.",5,5
+neutrality,Hij wil graag bij Teddy zijn.,4,3
+surprise,Precies. Dus?,6,4
+anger,Hij forceert 'n kans. Hij staat hier toch niet voor niks voor de deur?,0,0
+neutrality,Wat?,4,6
+surprise,Meen je dat? Dus 't komt weer helemaal goed met haar?,6,6
+neutrality,"Geloof me, dit is de enige kans waarop je jezelf kunt redden.",4,0
+happiness,"Lijkt me logisch, ik hou van je.",3,3
+sadness,Laat maar.,5,0
+neutrality,Jij weet dat er ook meer is.,4,0
+neutrality,"ok, dan vraag ik m'n vader.",4,5
+disgust,"Ik mag niet eens informatie verstrekken, laat staan... je vraagt me in te grijpen in het genezingsproces van Malena. Met de gevolgen die dat voor haar kan hebben. Dat is tegen alles waar ik als arts voor sta, Ludo.",1,0
+neutrality,Heb je Marcus gesproken?,4,6
+neutrality,ja. Die had ik weggebracht omdat ik als enige niet gedronken had.,4,0
+sadness,Wat jammer dat het niks is geworden met jou en Robert.,5,0
+neutrality,"Ze wilde bij mij komen wonen. Ga eerst even rustig met je moeder praten, zei ik.",4,4
+anger,Mama begrijpt niet hoeveel 't voor me betekent om met 'm te trouwen.,0,5
+happiness,"Ik denk dat 't wel goed voor je is. Dingen ondernemen, afleiding zoeken. Het valt best mee.",3,3
+disgust,Die vrouw is erop gebrand om mij te ruineren. Ze heeft er vast 'n vermogen voor over om iemand om te kopen.,1,4
+neutrality,en ik wilde uitleggen waarom hij niet zou komen. Die sponsordeal speelde ook mee.,4,4
+neutrality,En heb je nog ergens 'n fatsoenlijk pak liggen?,4,4
+fear,"Schat, ik word... Ik word steeds verder de vernieling in geholpen als ik niet uitkijk. En wat is dat mens van plan? Wanneer is het genoeg voor haar? Wie is het?",2,0
+fear,"Maar ik was zo bang. Ik dacht: Als ze dat m'n tante aandoet, wat staat me dan te wachten? Ik had het beloofd, ik durfde niet te weigeren.",2,0
+happiness,Jij haalt het ook.,3,4
+happiness,"Ja, ik ben er definitief van bevrijd.",3,0
+fear,"Ze redt het wel, toch? En Thijs ook?",2,6
+neutrality,"Ik heb daaraan meegeholpen, daarom ben ik geinfiltreerd.",4,4
+neutrality,Ik weet het niet.,4,2
+neutrality,Ik geef dit wel door aan Laura.,4,4
+fear,"Ze maakt me af. Ze weet niks over 't casino en dat wil ik zo houden, ok?",2,4
+neutrality,Daar kom ik op terug.,4,4
+neutrality,Ik heb een ontmoeting gehad met Bill Norris.,4,4
+neutrality,Nee... andere prioriteiten stellen is misschien beter gezegd.,4,2
+surprise,Er is toch wel een middeltje om 'r bij te brengen?,6,4
+happiness,Ik weet dat ze zeer binnenkort op de markt zullen komen.,3,4
+neutrality,Dat was in opdracht van Maddy. Zodat ik informatie kon verzamelen over Sanders Inc.,4,4
+anger,Jij maakt iedereen knettergek.,0,0
+sadness,Hij was er net al en hij wordt helemaal gek van me.,5,3
+neutrality,Ik ga naar het ziekenhuis.,4,4
+disgust,Weet je hoelang ik hier al ben? Hoeveel dagen en nachten? Ik weet het zelf niet eens meer. Ik wilde hier zijn als je bijkwam.,1,0
+happiness,"Ja, en daar wil ik je graag bij helpen.",3,3
+happiness,"Ja, ik wil.",3,4
+neutrality,Maar eind van de maand hebben we mogelijkheden.,4,4
+neutrality,Thijs is waarschijnlijk een match maar...,4,2
+disgust,"Wat sta je daar nou, man? Kom hier.",1,0
+fear,Maar wat wij samen hebben… dat is toch sterk genoeg om samen verder te gaan?,2,0
+fear,We moeten het ze tegelijkertijd vertellen.,2,0
+neutrality,Ik vroeg 't me alleen maar af. Doe je nog andere dingen tegenwoordig dan schilderen?,4,0
+sadness,"Ik wou dat ze van jou was, echt.",5,5
+sadness,"Kijk, als ik kon... maakte ik 'n huwelijksreis met je van drie maanden.",5,4
+sadness,"Ik sta achter jou, maar wil m'n vader niet laten vallen omdat ik 'm snap.",5,0
+surprise,Een abortus?,6,6
+sadness,Ze heeft d'r leven op het spel gezet voor mij.,5,4
+fear,En ze denkt dat ik het nog moeilijker krijg... als ik met hem trouw en hij straks dood is.,2,5
+happiness,Hoe je hiermee omgaat. Jij verandert elke tegenslag in iets positiefs.,3,0
+fear,"Ik denk 't echt, dus laten we daar maar van uitgaan, ok?",2,4
+happiness,Al is het alleen maar omdat jij veel betere genen hebt dan Thijs.,3,4
+disgust,"Dus je moet hem of negeren, of voor eens en voor altijd... duidelijk maken dat jullie niet voor niets exen zijn.",1,5
+surprise,Ze nam het helemaal niet goed op. Ik heb echt iets heel anders gezien.,6,5
+fear,Ik kan haar niet in de steek laten.,2,5
+anger,Ze is evengoed mijn dochter als de jouwe.,0,4
+neutrality,"Ja, nou, ik zal voor jullie duimen. Ik ga ervandoor, ik kom uit 'n nachtdienst, ik ga effe slapen.",4,5
+fear,Wanneer is de dokter voor 't laatst geweest?,2,6
+happiness,"Lieverd, je hebt haar zo veel liefde gegeven.",3,3
+neutrality,"Daarna heb ik een tijd niks van 'r gehoord, ik was het al vergeten. Tot ik een keer thuiskwam en toen zat ze daar op de bank... en ze zei: Het is tijd. Ze was niet meer vriendelijk. Bikkelhard.",4,0
+surprise,Dat had ik niet verwacht. En dan bedoel ik ook dat ik dat echt niet had verwacht.,6,0
+surprise,Waarom vertelt Sjoerd zoiets aan jou?,6,6
+neutrality,Wat is nu eigenlijk bewezen?,4,0
+fear,Zijn levenswerk dreigt uit elkaar te spatten. En als hij nu ook nog z'n dochter verliest...,2,5
+fear,Dat risico blijft even groot.,2,4
+disgust,Ik zit ondergedoken. Dat zeg ik dus niet.,1,0
+anger,Dat weet ik toch zelf ook wel?,0,0
+happiness,Wij gaan even een biertje drinken.,3,4
+sadness,Als ze geen nieuwe lever krijgt wel.,5,5
+surprise,Wat is dit?,6,6
+disgust,Vertrokken. Hij vond het niet de moeite waard om iets te zeggen.,1,0
+fear,"Ik snap dat 't lastig is, we hebben elkaar 'n tijdje niet gesproken. Maar dat betekent niet dat ik niet aan je hebt gedacht.",2,0
+sadness,Misschien had ik meer interesse moeten tonen.,5,0
+sadness,Het gaat wel weer.,5,5
+neutrality,"De sluit niet uit dat Ludo opdracht heeft gegeven, maar... vooralsnog is niks bewezen.",4,2
+anger,Als je niet zo idioot zou doen dan zou ik 't wel weten.,0,0
+sadness,"Sorry. Ik snap ook niet wat er gebeurd is tussen ons, het was zo...",5,5
+anger,Daar gaat 't nu niet om.,0,0
+fear,"Hoe gaat het met de medicijnen, ben je misselijk?",2,6
+neutrality,Ik jou ook.,4,4
+fear,Wat kan er allemaal gebeuren?,2,0
+disgust,Die je mishandelde. Of is dat ook gelogen?,1,6
+neutrality,Van Sacha d'r studie.,4,4
+happiness,"Ik wil je vrouw worden, Olivier. Ik weet het zeker.",3,3
+fear,"Er is een scan gemaakt. Er zijn uitzaaiingen naar z'n hoofd, met name de frontaalkwab.",2,4
+fear,Hoe is het met Teddy?,2,6
+surprise,Wat heb jij nou gedaan?,6,0
+happiness,Ja. Linda kan niet wachten om mijn vrouw te worden.,3,0
+happiness,Sam heeft Olivier ten huwelijk gevraagd.,3,4
+anger,Het is Valentijnsdag nota bene.,0,3
+neutrality,"Meneer Eagle Meagle, met Kimberly Sanders.",4,4
+anger,"Als jij geen fout had gemaakt, zaten wij nu niet in de shit.",0,0
+disgust,Waarom loop je achter me aan? Ik wil niet met jou gezien worden.,1,0
+disgust,Promotie gemaakt?,1,4
+anger,Dat vraag ik toch ook niet van je?,0,0
+happiness,Maar het is in ieder geval fijn dat de keuken af is.,3,1
+neutrality,Ik weet niet wat ik moet opschrijven.,4,4
+neutrality,"Als je van gedachten verandert, je weet me te vinden.",4,4
+disgust,Ik kan geen koffie meer zien. Jij?,1,0
+fear,Moeten wij nu niet als ouders van de aanstaande van alles bespreken?,2,0
+fear,Is er misschien 'n plek waar ze graag samen naartoe gaan? Wat weet je precies? Is er 'n plek waar hij zich graag terugtrekt?,2,0
+disgust,Ik word gek van jou. Ga naar huis.,1,5
+surprise,Denk je echt dat ik 'm dit ga vertellen?,6,0
+fear,Betekent dat dat wij...,2,3
+neutrality,Laten we even gaan zitten.,4,5
+neutrality,Ik heb jouw identiteitsbewijs gekopieerd en dat van Bing.,4,4
+anger,Het gaat erom dat Thijs uit die kamer weg moet.,0,4
+sadness,Nee. Daar heb ik de rust niet voor.,5,0
+fear,Je kan hem dit niet alleen laten doen.,2,0
+neutrality,We kunnen beneden wachten. Voor als ze ons nodig hebben.,4,3
+sadness,"Ik ben nooit gestopt van haar te houden, maar dat is niet wederzijds.",5,5
+happiness,"Welterusten, lief. Je laatste nacht alleen.",3,3
+fear,Ik denk dat Sanders Inc. verwoesten nog maar het begin is.,2,4
+anger,Arrogante eikel.,0,4
+neutrality,Daarna is ze nog keer langs geweest. Om te zeggen dat ze ooit om een wederdienst zou vragen.,4,1
+sadness,Heel veel. We hebben nog maar zo weinig tijd samen.,5,3
+neutrality,"Dus gebruik je fantasie rond etenstijd, en 's nachts natuurlijk.",4,3
+neutrality,Ik probeerde van iets negatiefs iets positiefs te maken.,4,4
+neutrality,Ik heb 'n stroman geregeld. Ik zorg voor de financien.,4,4
+anger,Het was toch de afspraak dat ik dit zou terugbetalen?,0,0
+neutrality,"De volgende is over een uur, dus ik heb nog even.",4,5
+sadness,Ik ben moe.,5,3
+fear,"Als hij doodgaat, is dat ook mijn schuld.",2,4
+neutrality,"Geen idee, maar ik verzin wel iets leuks.",4,0
+happiness,"En je bent er nu, op de mooiste dag van m'n leven.",3,3
+neutrality,Hoe kan ik daar nou niet aan denken?,4,0
+neutrality,Is het daarom uit tussen jullie?,4,0
+happiness,Ik hou net zo veel van jou als jij van mij.,3,0
+neutrality,Ik wil dat jij een succes wordt.,4,3
+anger,Je hebt zelfs m'n hele collectie gemist.,0,3
+sadness,Dat was helemaal niet mijn bedoeling.,5,4
+neutrality,"Serieus? Nee, natuurlijk, ik doe dat. Nee, ik waardeer juist enorm dat je mij dit laat doen. Niemand geeft Ludo liever 't laatste zetje dan ik.",4,0
+anger,En niet alleen dat van mij. Ook dat van m'n zusje. Denk je dat zij wil dat fans van mij haar aanspreken op straat?,0,4
+neutrality,Je gaat direct de grens over.,4,4
+neutrality,Of je hebt iets gedaan waardoor hij denkt dat je hem nog wil.,4,4
+sadness,Ook niet voor heel even?,5,4
+sadness,"Ja, dat bedoel ik. En... als ik 't over kon doen, dan zou ik 't anders doen, echt waar.",5,4
+neutrality,Hoe dan?,4,4
+neutrality,Kunnen we in ieder geval met die screening beginnen?,4,6
+sadness,Waarom wil hij dan nu ineens niet meer?,5,0
+neutrality,Het alternatief is niet liegen.,4,4
+neutrality,Dat weet je toch? Omdat mijn tante me vroeg... Nee.,4,4
+happiness,En bedankt ook dat we voorlopig bij jou mogen logeren.,3,0
+anger,"En toch is het zo. En omdat ik het niet wilde doen, heeft ze geprobeerd me te vermoorden.",0,5
+sadness,Ik had kunnen helpen. Ik had naar Hawaii toe kunnen gaan. Om er voor je te zijn.,5,3
+neutrality,Gaan wij trouwjurken passen.,4,4
+neutrality,Pas op dat je niet met de hand in de blender komt. Dan doe je dit erbij.,4,4
+neutrality,Als hij ooit nog komt... een groene cappuccino.,4,3
+anger,Dan heb je iets om aan terug te denken. Ik hoop dat je kapotgaat aan de gedachte...,0,4
+neutrality,Wil jij verse croissants?,4,6
+neutrality,Ik vertel je alles als je mij helpt om haar terug te vinden.,4,4
+surprise,Wat? Hoe weten die mensen dat?,6,0
+neutrality,"Hee, niet zo ver weg. Dan moet hij zich te ver uitrekken.",4,0
+neutrality,"Nee, het moet een grote, sterke boom zijn, waar ik tegenaan kan leunen. En waar ik onder kan schuilen als het regent.",4,3
+neutrality,Weet ik niet. Ik heb 'r nooit ontmoet.,4,5
+anger,Eerst sleur je me 't bed in en nu gaat 't te snel?,0,0
+surprise,Jullie zijn zo erg.,6,3
+neutrality,"Sorry, ik wilde je waarschuwen maar hij was al weg.",4,2
+neutrality,Ook niet of zij het brein hierachter is. Misschien is ze ook maar een klein schakeltje.,4,4
+sadness,Wat schiet ik daarmee op? Aysen heeft net ons kindje weg laten halen.,5,0
+neutrality,Misschien wel.,4,4
+neutrality,"Ja, dat weet ik.",4,4
+fear,Ik weet dat ik uitzaaiingen naar m'n hoofd heb. Maar ik wil weten wat me te wachten staat.,2,5
+happiness,Ik hou van Anton.,3,3
+fear,Thijs gaat alles doen om Teddy van me af te pakken.,2,2
+anger,fuck. nee.,0,4
+neutrality,"Het klinkt misschien lulliger dan 't is, maar dat is niet mijn probleem.",4,0
+neutrality,Laat me raden: Je hebt het te druk?,4,0
+fear,Krijg je medicatie? Word je behandeld? Hoe gaat zoiets?,2,0
+happiness,Ik wil alleen maar met je trouwen als je er zo uitziet.,3,5
+neutrality,Ik hoor het nog wel. Pas goed op haar.,4,4
+neutrality,"We hadden 'n overeenkomst, we waren bezig met de voorwaarden.",4,4
+neutrality,"Ze wil jong, excentriek talent een kans geven. Nu kennen mensen hem niet, maar hij gaat 't helemaal maken.",4,3
+neutrality,"Ja, ik doe het. Ik ga het nu doen, ik doe het nu. Denk ik.",4,5
+neutrality,Heb ik jou al gezegd dat ik van voetbal hou en bier?,4,6
+anger,Waarom heb je me niet gebeld?,0,0
+fear,Maar... dit betekent toch dat je zwanger bent?,2,0
+neutrality,"Nee, die moet nog duizend dingen regelen voor de bruiloft.",4,4
+happiness,"Ik hoorde dat je bijgekomen was, dus dacht: even kijken hoe 't met 'r is.",3,4
+happiness,"Je gaat trouwen, Sam. Je gaat gewoon echt trouwen.",3,5
+neutrality,Sjoerd is haar vader.,4,4
+sadness,"Ik deed het voor jou, omdat ik van je hou en je niet kwijt wil.",5,5
+anger,"En wij doen aan tradities? shit, we hebben seks voor het huwelijk gehad.",0,0
+sadness,"Dit gaan we dus niet doen. Geen romantische toespelingen, geen zon in de zee zien zakken...",5,0
+happiness,Lekker koken.,3,3
+happiness,Omdat je de leukste en de mooiste bent.,3,3
+fear,"Shit, Ays... Ik weet niet of ik mezelf dit ooit kan vergeven.",2,0
+neutrality,Papa.,4,3
+neutrality,Dus ik dacht... kan ik niet een paar weken bij jullie logeren?,4,6
+surprise,Niet dat ik weet. Hoezo?,6,0
+surprise,Ik denk dat ze... hier al die tijd onbewust naar gezocht heeft.,6,4
+neutrality,Wat heb je te verliezen?,4,0
+neutrality,"Hee, m'n sjaal. die ligt bij m'n dochter. Vindt ze lekker zacht.",4,3
+anger,Maar dat kan niet. Maar als die deur niet geforceerd is... Wat zegt die bewaker dan? Wat een sukkel. Vind haar.,0,0
+sadness,Want hiv is voor heel veel mensen die vieze homo- ziekte. Die ik- blijf- het- liefst- uit- z'n- buurt- ziekte.,5,5
+fear,Wilde je een zelfmoordpoging doen of zo?,2,6
+surprise,Jij twijfelt toch niet aan mijn huwelijk?,6,0
+neutrality,Dat laat je dan op 'n originele manier merken.,4,4
+fear,Ik heb geen keus. Ik kan geen kant meer op.,2,5
+neutrality,Ik heb er iemand op gezet. Ik kom altijd verder dan de politie.,4,4
+neutrality,Niet nu.,4,0
+neutrality,"ja, aan 't werk. Welke fans?",4,4
+neutrality,Hebben we een deal?,4,6
+neutrality,Volgens mij trouw je met iemand omdat je daar 'n toekomst mee ziet.,4,4
+anger,Je zult het ermee moeten doen.,0,5
+neutrality,Nee. Hij is heel even bij geweest en toen viel ie in slaap.,4,3
+fear,Ik ben zo bang dat ze nooit meer iemand zal vertrouwen.,2,5
+neutrality,Hij moet 't toch aan iemand kwijt?,4,0
+disgust,"Alles wat ik over hem verteld heb, is waar. Ik was doodsbang voor die man.",1,5
+happiness,Zodat we over 'n paar jaar fijne herinneringen hebben.,3,3
+anger,"Ja. Degene die we hadden geregeld, heeft afgebeld.",0,4
+happiness,Gisteren dachten we dat je niet naar huis mocht… en nu lig je hier als een koning.,3,5
+fear,Als Thijs niet op tijd opknapt...,2,2
+fear,Ik wist niet dat hij ziek was.,2,5
+surprise,Waar komt dit allemaal vandaan? Je bent toch niet zwanger?,6,0
+disgust,"Hoor je nou wat je zegt, dit kun je toch niet menen?",1,0
+happiness,"Romantisch, toch? We willen het graag hier doen.",3,0
+fear,"Lieverd, er is iets dat je moet weten.",2,3
+sadness,"Vanaf we verliefd werden, heeft ze alles geprobeerd om los te komen...",5,2
+surprise,Hadden wij iets afgesproken?,6,0
+neutrality,Wat zei de arts?,4,6
+fear,Ik vind het gewoon zo heftig allemaal.,2,5
+sadness,Ik ben in elk geval blij dat je nog met me wilt praten.,5,3
+sadness,Maar mama... ze behandelt me nog steeds als een klein kind. Ze denkt nog steeds dat ze m'n leven kan bepalen.,5,5
+disgust,Ik wil gewoon rust.,1,5
+neutrality,"Aan het begin niet, uiteindelijk wel.",4,0
+neutrality,Sam praatte d'r mond voorbij over die kus. Hij heeft er niks over gezegd.,4,0
+sadness,Ik vind 't zo erg wat ik je heb aangedaan.,5,3
+fear,Waarom heb ik het gevoel dat er iets aan de hand is?,2,6
+surprise,Waar kan hij naartoe gaan? Zo ver mogelijk weg.,6,6
+sadness,Ik had geen keuze.,5,4
+anger,Wist hij 't allang en heeft hij mij heel bewust besmet.,0,1
+neutrality,Wat is goed? Ik ben met 'r getrouwd geweest.,4,5
+sadness,"Positief. Dus ik heb het van hem, dat kan niet anders.",5,5
+fear,Ik moest in opdracht van Maddy voor jou werken. Ik heb vanaf het begin af aan tegen je gelogen.,2,4
+happiness,Goed.,3,4
+happiness,Het is juist heel goed dat Olivier dit doet.,3,4
+happiness,Hee lievie.,3,3
+neutrality,Goed idee.,4,0
+neutrality,Dat is een kwestie van vertrouwen.,4,4
+fear,We kunnen er niet onderuit. We moeten zeggen dat ie niet haar vader is.,2,5
+anger,Negen uur had ik gezegd.,0,6
+neutrality,"Ja. Als Olivier zover is, waarschuwt hij zijn huisarts...",4,4
+sadness,Als dat het nou moeilijker maakt? En heftiger?,5,0
+happiness,"Flatteus, dat moet ik zeggen.",3,4
+anger,Anton mag hier iets van horen.,0,4
+surprise,Waarom heb ik 't gevoel dat je niet enthousiast bent? Je mag 50.000 euro uitgeven. Wie wordt daar nou niet blij van?,6,0
+anger,Hij claimt dat hij Sanders misbruikt heeft voor z'n witwaspraktijken.,0,4
+neutrality,Het heeft met Ludo te maken.,4,4
+surprise,"Sorry, dat probeert u toch te zeggen?",6,0
+neutrality,"Vergeten te halen, kan je alsjeblieft naar de winkel?",4,6
+sadness,Heb je eigenlijk wel zin in vanavond?,5,6
+neutrality,Maar als je bent getrouwd maakt dat het allemaal veel moeilijker. Denk alleen aan al die praktische dingen die je moet afhandelen.,4,5
+neutrality,Sjoerd... Hoe is het nu met Aysen en Teddy?,4,2
+neutrality,Hij begint te vermijden om in 't openbaar te verschijnen.,4,4
+neutrality,Hoe is het gegaan met je exen?,4,6
+happiness,Tuurlijk. Graag zelfs.,3,3
+neutrality,Waarom vertel je Nina ook niet over jou en Noud?,4,6
+neutrality,Ik neem het aan.,4,4
+sadness,Ik heb me 'n tijdje 'n waardeloze vader gevoeld toen ik vastzat. Dat is niet te vergelijken met jouw situatie nu.,5,0
+disgust,"Man, wat kut voor je.",1,3
+happiness,Plaats een oproep op Kwebbelkous. Vraag rond bij je vrienden. Zit je al op Smoelaria?,3,4
+sadness,Een abortus gehad. Ja.,5,1
+anger,Ik ben 't er niet mee eens.,0,0
+neutrality,Wat is de inschatting?,4,6
+happiness,Fijn dat Olivier in ieder geval weer thuis is.,3,4
+neutrality,Kan ik nog iets voor iemand meenemen?,4,0
+surprise,Dus je weet het al een tijdje.,6,3
+disgust,Dat is de meest logische stap als ze hem wil ruineren.,1,4
+disgust,Als mensen onveilige seks hebben is 't hun eigen verantwoordelijkheid... om zich eens in de zoveel tijd te testen?,1,6
+neutrality,"Er zijn steeds verrassingen, zoals nu mijn priverekeningen. Het is niet de het is Maddy.",4,0
+anger,Kan dit 'n andere keer? Dit is niet het moment om onze vrijpartij te evalueren.,0,0
+surprise,Wat doe jij hier?,6,6
+neutrality,"Ik heb om half 1 de afspraak, ik vind 't heel fijn als je meegaat.",4,4
+happiness,"Goed, heel goed. Heel erg goed, we zijn nog alle twee verliefd.",3,3
+happiness,"Pap, alles zit er voor je in.",3,3
+happiness,Heb ik je al gezegd dat je er beeldschoon uit ziet?,3,4
+sadness,Dat je ons weer een kans geeft. Ik snap heus wel dat 't niet meteen goed is...,5,5
+disgust,Hoe moeilijk is 't om uit te rekenen hoelang je zwanger bent? ik weet ook niet waar 't fout is gegaan. ',1,0
+anger,Die artsen hier hebben geen idee waar ze het over hebben. Ik heb helemaal geen hiv.,0,0
+happiness,"Ze maakt me gelukkig. We kunnen nu een nieuwe start maken, een eerlijke.",3,5
+neutrality,"Sorry, Dat brengt ongeluk.",4,2
+neutrality,Maar wie is dat dan? Ken je die man?,4,0
+happiness,Ik hou zo ontzettend veel van je.,3,5
+neutrality,Zo snel mogelijk.,4,3
+fear,Sorry. Ik ben de tijd helemaal vergeten. Ik ben die vlog vergeten.,2,5
+surprise,Is dit wat ik denk dat het is?,6,0
+happiness,Wat staan jullie daar nou? Is toch goed nieuws?,3,0
+neutrality,Omdat het misschien lunchtijd is?,4,6
+anger,"Ze werd gedwongen, afgeperst.",0,2
+anger,"Na alles wat we ervoor gedaan hebben. En waarom, Aysen?",0,3
+neutrality,Ze komt er echt wel op terug. Er is 'n hoop gebeurd...,4,4
+neutrality,Ze zijn gaan poolen. Top.,4,3
+sadness,"Ik hou van papa, maar ik moest dit doen. Van mezelf en van niemand anders.",5,5
+fear,"Ja, ze weten dat ze weg is, maar hebben geen aanknopingspunt.",2,4
+neutrality,In het zelfde huis als Amy en Sil.,4,4
+neutrality,Zij betaalt hem toch? Volg het geld.,4,0
+disgust,Je hebt niet eens aangevoeld dat Teddy je dochter niet is.,1,0
+anger,Waarom neem je je telefoon niet op?,0,6
+neutrality,"Sam, ik heb erover nagedacht. En als jullie me dit toevertrouwen dan... ok.",4,4
+sadness,Is er een manier om onze band weer op te bouwen?,5,4
+neutrality,Het is al gebeurd.,4,4
+neutrality,"Je hebt genoeg kinderen, Bram, Teddy...",4,5
+neutrality,Dat dacht ik al.,4,4
+anger,"of wat ik bedoel te zeggen is dat... Ik kan er niks aan doen... maar het is nou eenmaal zo, dus ik moet er wat mee. Of jij moet er wat mee. Sorry, jezus.",0,0
+neutrality,Wat ga je doen?,4,6
+neutrality,"De was gelukt, maar Aysen heeft 't kindje weg laten halen.",4,4
+neutrality,Jij?,4,6
+neutrality,"Ik ben net zwanger, dus misschien kan die overtijdbehandeling nog.",4,0
+neutrality,Job wil weten hoe het is gegaan. En Rozemarijn en de buurvrouw.,4,3
+disgust,"Nou, hij zoende mij. Ik duwde hem meteen van me af. Dat gebeurde in 'n fractie van 'n seconde, en dat staat op de foto.",1,4
+happiness,"Wel super dat we ze effe mee mochten nemen, he?",3,4
+happiness,"Nee, integendeel. Ik zie jou en Nina heel graag samen.",3,0
+neutrality,Dat ze mij niet meer wil zien... als ik haar niet haar eigen keuzes laat maken.,4,0
+neutrality,"Zomaar, ik... Ik wou even zien hoe je woont.",4,4
+happiness,Ik hou van je.,3,3
+neutrality,Hoe groot de problemen ook zijn tussen Bing en mij... ik ben blij dat jullie je verzoend hebben.,4,0
+anger,Dan los je het ook maar weer op.,0,4
+neutrality,Het bloed afnemen is nog even uitgesteld. Maar hij dringt nu aan op een screening.,4,2
+neutrality,"Nee, die kunnen we natuurlijk niet alleen laten.",4,5
+anger,"daar moet ik het mee doen? Nee, nee, helemaal duidelijk. Bedankt. De golfclub dreigt me te royeren. Omdat de contributie niet kon worden afgeschreven.",0,0
+neutrality,"Gewoon, stap tegelijk.",4,0
+neutrality,Wat kan jij doen?,4,6
+neutrality,Ik moet m'n pillen op 'n vast tijdstip innemen.,4,3
+neutrality,"Ik ben Janine, de moeder van Lucas, maar dat had je al door.",4,4
+surprise,Wat zoek je in m'n spullen?,6,6
+happiness,Ik hou van je.,3,3
+anger,Zal ik de bloemen maar uit de vuilnisbak halen?,0,6
+disgust,Het is niet niks om te horen dat je hiv hebt.,1,0
+neutrality,En jij wist het ook al die tijd.,4,4
+sadness,"Och, het was leuk zolang het duurde. En we gaan goed met elkaar om.",5,3
+neutrality,Heb alles gewist na 't laatste gesprek.,4,0
+neutrality,Vertel eens over dat sterven.,4,0
+happiness,Heb een geweldige avond.,3,3
+anger,"Nee. Ik heb al genoeg verpest. Jullie gaan gewoon trouwen, punt.",0,5
+neutrality,"De ringen, het ja- woord, over de drempel gedragen worden.",4,3
+neutrality,Postzegel.,4,4
+anger,Doe niet alsof ik een klein kind ben.,0,5
+sadness,Je kunt toch niet zomaar breken met je vader? Daar moet je goed over nadenken.,5,0
+neutrality,Als vlogger ben je 'n publiek figuur.,4,3
+anger,Ga weg.,0,4
+neutrality,Ik wil me even excuseren voor daarnet.,4,2
+neutrality,We hebben alles uitgebreid besproken en ik begreep waarom ze zo deed.,4,4
+sadness,onze ruzie. Hoe ik het anders had moeten doen. Had ik m'n mond moeten houden en jou laten trouwen... terwijl ik dacht dat je een fout maakte?,5,0
+surprise,Ik wilde alleen afscheid nemen van Teddy. Hij sloeg mij.,6,0
+neutrality,Dat is duidelijk.,4,4
+fear,Malena is ontvoerd uit het ziekenhuis.,2,4
+fear,Ik ben doodsbang dat Teddy 't niet haalt. Als ze 't wel haalt raak ik haar misschien ook kwijt.,2,0
+neutrality,Ik laat alle voorbereidingen treffen.,4,4
+fear,Ik deed 't niet expres.,2,2
+happiness,"Ook lekker, als je ervan houdt. Ays, ik heb een saucijzenbroodje voor je meegenomen.",3,4
+anger,Je had het tegen mij moeten zeggen.,0,5
+anger,Jawel. Je zorgt er maar voor.,0,4
+neutrality,Je moet 't wel tegen Sjoerd zeggen.,4,0
+surprise,"Is dat niet strafbaar, om iemand opzettelijk te besmetten?",6,0
+anger,"Jij hebt een loyaliteitsprobleem, niet ik.",0,5
+surprise,Wie had dat een week geleden gedacht?,6,6
+neutrality,Dat is wel wat ik wil.,4,3
+neutrality,Ik ook.,4,4
+neutrality,Ik ben verplicht u op de risico's te wijzen.,4,4
+surprise,Twee weken? Dat red ik nooit.,6,0
+anger,Als ik nog keer 'ik wil je terug' zeg… slaat ze die woorden zo terug mijn bek in.,0,0
+neutrality,Het is traditie.,4,3
+neutrality,Als je liever hier blijft... Veel succes met m'n opvolger.,4,5
+anger,En met hun ga je 'n feestje bouwen en mij laat je zitten?,0,3
+anger,Ik ben net geopereerd. Ik heb 'n hartstilstand gehad. Hier heb ik geen zin in. Ik ben blij dat ik nog leef.,0,5
+neutrality,Dit is geen bevlieging.,4,4
+surprise,Jij wist dit?,6,6
+neutrality,Je moet het hem toch vertellen.,4,0
+sadness,Nina wil me niet meer zien.,5,5
+neutrality,Ehm... Vanwege Sam en Olivier bedoel ik.,4,4
+sadness,Aysen heeft het uitgemaakt.,5,4
+disgust,Geen grap? Nee! Waarom in godsnaam?,1,0
+disgust,Ehm... Ze heeft gif in mijn infuus gespoten. Ze houdt van controle.,1,4
+fear,Ik moet straks naar het ziekenhuis voor die test en ik wil niet alleen.,2,4
+neutrality,Pap.,4,4
+neutrality,Ga jij naar je vader. Ik wil alleen met 'r zijn.,4,5
+surprise,Waarom eet je je verlovingsring op?,6,6
+happiness,"Hee, Job hier. Met weer een ander filmpje dan jullie gewend zijn.",3,3
+neutrality,"We praten er zo verder over, Anna.",4,4
+neutrality,Een grote klant?,4,4
+surprise,Hou je niet meer van me?,6,0
+neutrality,Maar verder dan 't park hier ga ik 't niet meer redden.,4,0
+anger,Nu blijkt dat je me al maanden verraadt. Het heeft me mijn relatie met m'n broer gekost en m'n baan.,0,5
+surprise,"Waarom zouden we huwelijken vieren, geboortes en niet het sterven?",6,6
+neutrality,Anna is een soort van mijn stiefnichtje.,4,4
+neutrality,dat er een relatie bestaat in de eerste graad. bent de biologische vader van Teddy Kramer. ',4,4
+disgust,Jij bent echt compleet gestoord.,1,0
+surprise,"En wat ons betreft... wij weten wat we aan elkaar hebben, toch?",6,4
+anger,"Als hij zo nodig wil boeten, laat hem.",0,4
+happiness,En ik heb 'n goed voorstel wat zowel voor jou als voor mij heel interessant kan zijn.,3,3
+neutrality,We willen 't zo snel mogelijk gehad hebben.,4,4
+surprise,Is er iets met Teddy?,6,6
+sadness,Het is niet ondenkbaar dat hij de operatie niet overleeft.,5,4
+surprise,Pardon?,6,6
+neutrality,Alsofjij vies bent van een beetje aandacht.,4,4
+disgust,"vader kun je om je vinger winden en manipuleren, maar mij niet...",1,3
+surprise,Maar ze kregen iets beters.,6,4
+fear,Zijn toestand is op dit moment dermate slecht dat... opereren te risicovol is. Alles hangt nu af van z'n herstel.,2,4
+fear,Ik denk dat dit het einde is.,2,0
+disgust,Ik weet niet wie hierachter zit... maar hij of zij heeft er heel goed over nagedacht.,1,3
+neutrality,Zover is het nog niet.,4,4
+neutrality,Luister nou even.,4,2
+sadness,"Laat alsjeblieft iets liefs achter, hier beneden in de comments. Voor Job, maar vooral voor Teddy.",5,3
+anger,Praten... Wat lost het op?,0,6
+disgust,Over de opening gesproken: ik wil ook niet dat je komt.,1,0
+anger,Daar gaat het niet om. Zo ga je toch niet om met trouwe leden?,0,4
+neutrality,Je bent goed op de hoogte.,4,3
+sadness,Je kunt niet van mij verwachten dat ik je zomaar vergeef. Dat uitgerekend jij...,5,5
+neutrality,Heeft Kasper zich laten testen?,4,6
+neutrality,Wat is je vraag?,4,0
+surprise,Wil je niet horen wat ik te zeggen heb?,6,0
+sadness,Je bent mijn broertje. Er overkomt je iets verschrikkelijks.. en je vertelt helemaal niks.,5,5
+neutrality,Anton.,4,4
+neutrality,Dan moet je misschien wat uittrekken.,4,0
+neutrality,Ik wil weten wat jij gaat doen.,4,4
+fear,Je neemt een andere identiteit aan… en je vlucht.,2,4
+fear,"Je durft niks te zeggen, dat snap ik wel. Maar ik kan je helpen, Malena. Ik kan je tegen haar beschermen.",2,5
+neutrality,Ik heb als arts een eed afgelegd om mensenlevens te redden.,4,4
+disgust,Wat is dit? Zoeken jullie 'n zondebok?,1,6
+fear,Heb je de huisarts al ingelicht?,2,4
+surprise,Heb je haar ingehuurd om je man te vermoorden?,6,0
+disgust,Ik heb die vieze ziekte van jou niet. Laat me met rust.,1,5
+neutrality,Je hoeft dit niet te doen.,4,0
+neutrality,Denk nou alsjeblieft met me mee. Misschien zie je iets over het hoofd.,4,0
+neutrality,En jij dan? Jij houdt je bezig met je golfclub en met je auto's en zo.,4,4
+neutrality,"Kom, ik help je.",4,4
+fear,Daarom juist. Je moet er gewoon een eind aan maken.,2,0
+neutrality,Ik ga wel met Bing praten. Ze wil dit niet.,4,5
+neutrality,Jullie band is heel sterk.,4,3
+neutrality,Volgens Nina kunnen we Maxime vertrouwen.,4,4
+disgust,Je hoort het ook te weten. Malena heeft de hele familie voorgelogen.,1,4
+neutrality,Weet ie dat ik weg ben gegaan?,4,0
+neutrality,Dan zet ik weduwe worden op mijn bucketlist.,4,4
+neutrality,"Sportongelukje, kickboksen. Maar ik ben hier voor jou.",4,5
+neutrality,Als je 't maar op tijd aangeeft. Stoerdoenerij is niet nodig.,4,0
+neutrality,"Dank je wel, het is echt een enorm...",4,3
+surprise,"Als dit niet raak is, weet ik het ook niet meer.",6,0
+neutrality,Hoe voel je je?,4,6
+surprise,"Wat? ok, tot zo.",6,4
+fear,Dan moeten ze het weten.,2,0
+neutrality,Ik kon me niet inhouden.,4,2
+neutrality,Dus je was niet meer dan een dekmantel?,4,6
+neutrality,"Voorlopig niet, nee. Het bevalt me prima.",4,5
+happiness,"Meneer Meagle, hai. Zou u zo vriendelijk willen zijn... om me zo snel mogelijk terug te bellen?",3,4
+neutrality,Kimberly is een nichtje en Noud is een van m'n beste vrienden.,4,4
+neutrality,Jij denkt dat het makkelijk was. Heb je enig idee hoe erg het was om al die tijd...,4,5
+disgust,En toen zijn die op onze naam gezet... en daardoor zit ik nu in de shit met Ludo. Deed je dat helemaal niks? Dat doe je me gewoon aan?,1,0
+neutrality,Weet je wat 't erge is? Ik begrijp haar volledig.,4,0
+surprise,"Het gaat niet lang meer duren, dat weet je toch?",6,0
+surprise,Begrijp je nou wat je van me vraagt? Een vriendendienst.,6,6
+neutrality,"Nou, de vader blijkt een goede match te zijn.",4,4
+neutrality,Maddy. Die zit overal achter. MaddyEverest.,4,4
+disgust,"Ach, godsamme, jongen.",1,3
+neutrality,"Ik zal bewijzen dat ik je vertrouwen waard ben, 100 procent.",4,3
+sadness,Nee. Ze hebben het gewoon geen kans meer willen geven.,5,0
+neutrality,Kun jij haar bijbrengen?,4,0
+neutrality,Kan ik gelijk vragen hoe het met Aysen is.,4,5
+anger,"Ze heeft niks aan jou, nooit gehad ook. Was lekker in Canada gebleven.",0,3
+neutrality,"Hallo, ik ben Noud en ik... doe een gastoptreden voor vandaag. En wat we gaan maken is... iets groens.",4,3
+happiness,Het kan maar beter duidelijk zijn. Jij hebt gewonnen. Proost.,3,3
+disgust,Je weet dat iemand hem kapot probeert te maken.,1,4
+neutrality,Maar ze heeft geen geld om daar te wonen.,4,4
+neutrality,Straks misschien. Ik neem eerst even een broodje kaas.,4,0
+happiness,Een berg kusjes en knuffels van haar voor mij.,3,3
+sadness,Het is echt heel stom van me.,5,5
+sadness,Hij heeft het lastiger dan ik. Dat we weer bij papa moeten aankloppen. Maar het allerbelangrijkste is dat Teddy beter wordt. Als de artsen ooit kunnen vinden wat ze heeft.,5,5
+happiness,"Heel zeker? Ja! Ja, ik wil. Natuurlijk wil ik.",3,3
+neutrality,"Het kan van alles zijn. Een frisje, water, wodka maar ook rum.",4,3
+neutrality,Nee. Dit is zo groot. Misschien heeft Maddy je wel expres laten gaan.,4,5
+neutrality,Gaat het?,4,6
+neutrality,Hij is toch de vader.,4,4
+anger,"Ja, dat vind ik heel erg voor je. Maar om mij nou de schuld te geven.",0,3
+neutrality,"Nou, dat is duidelijk. Je plannetje is mislukt.",4,0
+fear,Maddy wil me dood hebben.,2,5
+neutrality,En die champagne komt nog wel.,4,3
+surprise,"Niet te gewoontjes, toch?",6,6
+disgust,Sjoerd had niet vreemd moeten gaan.,1,0
+neutrality,Nee.,4,4
+neutrality,Ik ben de vader.,4,3
+sadness,Ik dacht dat we iets bijzonders hadden. Kennelijk beteken ik niks voor jou.,5,0
+happiness,Ik hou van jou.,3,3
+surprise,De aandelen zijn bevroren.,6,4
+surprise,"He, wat… Je zat hem zonet nog uit te schelden.",6,4
+neutrality,Ik had het je willen vertellen.,4,4
+surprise,Je hebt 'r dus wel ontmoet? Beschrijf haar. Eh...,6,4
+neutrality,Doe wat je moet doen.,4,4
+neutrality,Die is nu bij haar.,4,4
+neutrality,We gaan zo weg.,4,5
+anger,"Nee, het is bloedirritant. Als ik 'm nog keer tegenkom...",0,5
+surprise,Hoe ben je ontkomen?,6,0
+neutrality,Ik vraag of Aysen hierheen komt.,4,0
+happiness,Jij hebt alles onder controle!,3,0
+anger,Geen politie. Je maakt alles alleen maar erger.,0,0
+fear,Misschien had ik met Rover mee moeten gaan.,2,4
+neutrality,Ik moet er op de een of andere manier achter zien te komen. Maar eerst moet Ludo weten dat jij en Bing onschuldig zijn.,4,2
+anger,"De enige van wie ik steun wil, ben jij. Die volgers kunnen me geen zak schelen.",0,5
+anger,Je slaat door.,0,1
+neutrality,"schat, dat was m'n accountant.",4,3
+neutrality,"Sorry, heel even. Ik heb een artiestenbureau aan de lijn.",4,3
+neutrality,"Ik heb 'm gebeld, want ik wilde dit niet via de telefoon vertellen. Dus hij komt er zo aan.",4,4
+fear,"Alsjeblieft, laat me gaan, ik zeg tegen niemand iets. Wat ga je doen?",2,0
+sadness,Ik heb gezegd dat ik 't hem niet kwalijk neem... terwijl hij mijn hele leven heeft verpest.,5,5
+happiness,Anton en ik gaan over twee weken al trouwen.,3,4
+surprise,Is dit nog van die asielvlog?,6,6
+neutrality,Het is altijd handig 'n mooi pak te hebben liggen. Wie weet komt het nog van pas op jullie bruiloft.,4,3
+anger,En dat hoor ik nu pas?,0,0
+fear,Ik hoop het.,2,4
+anger,Jij moet ermee ophouden.,0,0
+happiness,Dat heeft jouw bruid voor je geregeld.,3,3
+fear,En daar komt bij: Ik hoop niet dat je van plan bent om 24/7 bij mij in de buurt te zijn.,2,4
+happiness,"Ja, dat weet ik ook, maar… Laat ook maar. Ik ben echt heel erg blij voor je.",3,3
+disgust,Aandachtshoeren dus.,1,4

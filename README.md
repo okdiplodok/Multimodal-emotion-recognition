@@ -17,4 +17,4 @@ Step # | Task
 1. | Preprocessing
 2. | [Instructions for annotators](https://github.com/okdiplodok/Annotator-instructions)
 3.1. | Fine-tuning BERT
-3.2  | Results: annotation, models' predictions
+3.2 | Results: annotation, models' predictions

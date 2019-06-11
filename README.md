@@ -12,9 +12,9 @@ The structure of my project is as follows:
 
 All these steps are presented in the following Jupyter notebooks (repositories):
 
-Step # | Task 
------------- | ------------ 
+Step # | Task
+------------ | -------------
 1. | Preprocessing
 2. | [Instructions for annotators](https://github.com/okdiplodok/Annotator-instructions)
-3.1. | Fine-tuning BERT
+3.1 | Fine-tuning BERT
 3.2 | Results: annotation, models' predictions

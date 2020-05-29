@@ -17,4 +17,4 @@ All these steps are presented in the following Jupyter notebooks (repositories):
 | 1.     | [Preprocessing](/Preprocessing.ipynb)                                               |
 | 2.     | [Instructions for annotators](https://github.com/okdiplodok/Annotator-instructions) |
 | 3.1.   | [Fine-tuning BERT](/Bert_text_classification.ipynb) and [flair](flair_for_subs.ipynb)|
-| 3.2.   | Results: annotation, models predictions                                             |
+| 3.2.   | [Results: annotation, models predictions](/thesis_final_version.pdf)                                             |
